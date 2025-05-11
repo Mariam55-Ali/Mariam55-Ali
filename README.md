@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I actively contribute to open source and collabora
 - [Recipe-App](https://github.com/Omnyanasr/Recipe-App)  
   Contributed to features for managing and displaying recipes, including UI improvements and backend enhancements.
 
-- [Hospital-Management](https://github.com/Omnyanasr/Hospital-Management)  
+- [Hospital-Management-App](https://github.com/Omnyanasr/Hospital-Management)  
   Helped build and refine core modules for hospital workflows, patient management, and record handling.
 ---
 
