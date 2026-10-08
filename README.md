@@ -1,29 +1,81 @@
 # 👋 Hi, I'm Mariam Ali
 
-Welcome to my GitHub profile! I actively contribute to open source and collaborative projects. Here's a quick overview of some of the repositories I've worked on.
+### Junior Data Analyst | Excel • SQL • Power BI • Python
+
+Welcome to my GitHub profile! I'm a **Junior Data Analyst** with a background in Computing and Data Science, interested in turning raw data into meaningful insights through analysis, visualization, and data-driven solutions.
+
+I enjoy working on real-world projects involving **data cleaning, analysis, dashboards, databases, and machine learning**.
 
 ---
 
-## 🔧 Open Source Contributions
+## 📊 Featured Data Analysis Projects
 
-- [Recipe-App](https://github.com/Omnyanasr/Recipe-App)  
-  Contributed to features for managing and displaying recipes, including UI improvements and backend enhancements.
+### 🏢 Real Estate Collection & Installment Analysis | Power BI
+An end-to-end Power BI project focused on analyzing real estate sales, installments, collections, outstanding balances, payment methods, and project performance.
 
-- [Hospital-Management-App](https://github.com/Omnyanasr/Hospital-Management)  
-  Helped build and refine core modules for hospital workflows, patient management, and record handling.
+**Tools:** Power BI • Power Query • DAX • Data Modeling
+
+🔗 [View Project](#)
+
+### 🏨 Hotel Booking Analysis | Excel
+An Excel analysis project exploring hotel bookings, market segments, cancellations, and revenue performance through data cleaning, analysis, and interactive dashboards.
+
+**Tools:** Excel • PivotTables • PivotCharts • Data Cleaning
+
+🔗 [View Project](#)
+
+### 🚀 More Projects
+- 🚲 [Bike Store Sales Analysis | Power BI](#)
+- 📞 [Call Center Performance Dashboard | Excel](#)
+
+[Explore all my repositories →](#)
+
 ---
 
-## 🚀 Technologies I Work With
+## 🛠️ Technologies & Skills
 
-- **Languages:** Python, Kotlin, Dart, SQL  
-- **Tools:** Git, MySQL, VS Code, Android Studio  
-- **Areas of Interest:** Mobile development, databases, UI/UX design, Machine learning
+### 📈 Data Analysis & Business Intelligence
+- **Excel:** PivotTables, PivotCharts, XLOOKUP/VLOOKUP, IF, SUMIFS, Data Cleaning
+- **SQL:** JOINs, GROUP BY, Subqueries, CTEs, Window Functions, Aggregations
+- **Power BI:** Power Query, Data Modeling, DAX, Interactive Dashboards
+- **Python:** Pandas, NumPy, Data Cleaning, Data Analysis, Data Visualization
+
+### 🤖 AI & Machine Learning
+- Machine Learning
+- Natural Language Processing (NLP)
+- Image Recognition
+- Data Preprocessing
+
+### 🗄️ Data Management
+- Database Design
+- ERD & Normalization
+- SQL Databases
+- Data Warehousing
+- ETL Concepts
+
+### 💻 Software Development
+- Python
+- Kotlin
+- Dart
+- Git
+- MySQL
 
 ---
 
-## 📫 Let's Connect!
+## 💻 Software & Collaborative Projects
 
-I'm always open to collaboration, learning opportunities, and impactful projects. Feel free to explore the repositories I've contributed to or reach out through the links below:
+Alongside my data analysis projects, I have contributed to software development and collaborative projects, including:
 
-- 📧 Email: mariam.ali.mousa55@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/mariam-ali-24b2a9348](https://www.linkedin.com/in/mariam-ali-24b2a9348)
+- 🍳 **Recipe-App** — Contributed to features for managing and displaying recipes, including UI improvements and backend enhancements.
+- 🏥 **Hospital-Management-App** — Contributed to core modules related to hospital workflows, patient management, and record handling.
+
+These projects helped strengthen my experience with **software development, databases, teamwork, and collaborative workflows**.
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/mariam-ali-24b2a9348)
+- 📧 [Email](mailto:mariam.ali.mousa55@gmail.com)
+
+⭐ Feel free to explore my repositories and projects!
