@@ -15,20 +15,20 @@ An end-to-end Power BI project focused on analyzing real estate sales, installme
 
 **Tools:** Power BI • Power Query • DAX • Data Modeling
 
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/Mariam55-Ali/real-estate-collection-analysis-powerbi)
 
 ### 🏨 Hotel Booking Analysis | Excel
 An Excel analysis project exploring hotel bookings, market segments, cancellations, and revenue performance through data cleaning, analysis, and interactive dashboards.
 
 **Tools:** Excel • PivotTables • PivotCharts • Data Cleaning
 
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/Mariam55-Ali/hotel-booking-analysis-excel)
 
 ### 🚀 More Projects
-- 🚲 [Bike Store Sales Analysis | Power BI](#)
-- 📞 [Call Center Performance Dashboard | Excel](#)
+- 🚲 [Bike Store Sales Analysis | Power BI](https://github.com/Mariam55-Ali/bike-store-sales-powerbi)
+- 📞 [Call Center Performance Dashboard | Excel](https://github.com/Mariam55-Ali/call-center-performance-excel)
 
-[Explore all my repositories →](#)
+[Explore all my repositories →](https://github.com/Mariam55-Ali?tab=repositories)
 
 ---
 
@@ -66,8 +66,11 @@ An Excel analysis project exploring hotel bookings, market segments, cancellatio
 
 Alongside my data analysis projects, I have contributed to software development and collaborative projects, including:
 
-- 🍳 **Recipe-App** — Contributed to features for managing and displaying recipes, including UI improvements and backend enhancements.
-- 🏥 **Hospital-Management-App** — Contributed to core modules related to hospital workflows, patient management, and record handling.
+- 🍳 **[Recipe-App](https://github.com/Omnyanasr/Recipe-App)**  
+  Contributed to features for managing and displaying recipes, including UI improvements and backend enhancements.
+
+- 🏥 **[Hospital-Management-App](https://github.com/Omnyanasr/Hospital-Management)**  
+  Contributed to core modules related to hospital workflows, patient management, and record handling.
 
 These projects helped strengthen my experience with **software development, databases, teamwork, and collaborative workflows**.
 
@@ -75,7 +78,7 @@ These projects helped strengthen my experience with **software development, data
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/mariam-ali-24b2a9348)
-- 📧 [Email](mailto:mariam.ali.mousa55@gmail.com)
+- [LinkedIn](https://linkedin.com/in/mariam-ali-24b2a9348)
+- [Email](mailto:mariam.ali.mousa55@gmail.com)
 
-⭐ Feel free to explore my repositories and projects!
+Feel free to explore my repositories and projects!
